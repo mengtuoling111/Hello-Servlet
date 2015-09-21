@@ -1,6 +1,7 @@
 package com.allinpay.demo1;
 
 import java.io.IOException;
+import javax.annotation.Resource;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
@@ -11,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
  */
 public class ServletDemo extends HttpServlet {
     private static final long serialVersionUID = 1L;
-
+    private @Resource(name = "i") int i;
     public ServletDemo() {
         super();
     }
@@ -31,7 +32,7 @@ public class ServletDemo extends HttpServlet {
             String name = request.getParameter("name");
             String password = request.getParameter("password");
 
-            System.out.println("name->" + name + ",password->" + password);
+            System.out.println("name->" + name + ",password->" + password + "i->"+i);
         }
     }
 
