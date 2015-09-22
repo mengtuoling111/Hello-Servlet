@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.kenai.nbpwr:org-junit:4.7-201002261215">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/kenai/nbpwr/org-junit/4.7-201002261215/org-junit-4.7-201002261215.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/kenai/nbpwr/org-junit/4.7-201002261215/org-junit-4.7-201002261215-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/kenai/nbpwr/org-junit/4.7-201002261215/org-junit-4.7-201002261215-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

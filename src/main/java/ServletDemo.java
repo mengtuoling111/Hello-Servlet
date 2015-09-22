@@ -15,6 +15,7 @@ public class ServletDemo extends HttpServlet {
     private @Resource(name = "i") int i;
     public ServletDemo() {
         super();
+        System.out.println("Hello Servlet by liwei!");
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {

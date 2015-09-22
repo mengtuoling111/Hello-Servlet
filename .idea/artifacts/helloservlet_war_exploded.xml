@@ -6,6 +6,9 @@
         <element id="directory" name="classes">
           <element id="module-output" name="helloservlet" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.kenai.nbpwr:org-junit:4.7-201002261215" />
+        </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/target/hello-servlet/META-INF/MANIFEST.MF" />
