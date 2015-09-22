@@ -32,7 +32,7 @@ public class ServletDemo extends HttpServlet {
             String name = request.getParameter("name");
             String password = request.getParameter("password");
 
-            System.out.println("name->" + name + ",password->" + password + "i->"+i);
+            System.out.println("name->" + name + ",password->" + password + ",i->"+i);
         }
     }
 
