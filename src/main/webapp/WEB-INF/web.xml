@@ -5,10 +5,10 @@
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
     <servlet>
-        <description></description>
+        <!--<description></description>-->
         <display-name>ServletDemo</display-name>
         <servlet-name>ServletDemo</servlet-name>
-        <servlet-class>com.allinpay.demo1.ServletDemo</servlet-class>
+        <servlet-class>com.allinpay.servletdemo.demo1.ServletDemo</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>ServletDemo</servlet-name>
@@ -19,4 +19,7 @@
         <env-entry-type>java.lang.Integer</env-entry-type>
         <env-entry-value>999</env-entry-value>
     </env-entry>
+    <welcome-file-list>
+        <welcome-file>index.jsp</welcome-file>
+    </welcome-file-list>
 </web-app>
