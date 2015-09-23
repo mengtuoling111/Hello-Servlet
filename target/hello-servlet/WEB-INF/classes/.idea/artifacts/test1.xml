@@ -1,6 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="exploded-war" name="test1">
-    <output-path>$PROJECT_DIR$/target/hello-servlet</output-path>
-    <root id="root" />
-  </artifact>
-</component>

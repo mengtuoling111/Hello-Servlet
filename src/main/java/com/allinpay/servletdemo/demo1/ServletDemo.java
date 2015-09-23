@@ -1,4 +1,4 @@
-package com.allinpay.demo1;
+package com.allinpay.servletdemo.demo1;
 
 import java.io.IOException;
 import javax.annotation.Resource;
