@@ -8,9 +8,62 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afe89708-f756-4b18-b202-96b3e4f59771" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_7.xml" />
       <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\.idea\libraries\Maven__junit_junit_3_8_1.xml" afterPath="" />
       <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\.idea\libraries\annotation_2_1_2.xml" afterPath="" />
       <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\settings.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\classes\com\allinpay\demo1\ServletDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet.war" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\META-INF\MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\.idea\artifacts\test1.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\.idea\compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\.idea\copyright\profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\.idea\libraries\javax_servlet_javax_servlet_api_3_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\.idea\uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\HelloServlet.iml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\com\allinpay\demo1\ServletDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\src\main\webapp\WEB-INF\web.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\src\main\webapp\index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\src\main\webapp\login.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\target\hello-servlet\WEB-INF\classes\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\target\hello-servlet\WEB-INF\classes\.idea\compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\target\hello-servlet\WEB-INF\classes\.idea\copyright\profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\target\hello-servlet\WEB-INF\classes\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\target\hello-servlet\WEB-INF\classes\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\target\hello-servlet\WEB-INF\classes\.idea\uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\target\hello-servlet\WEB-INF\classes\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\target\hello-servlet\WEB-INF\classes\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\target\hello-servlet\WEB-INF\classes\HelloServlet.iml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\target\hello-servlet\WEB-INF\classes\pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\target\hello-servlet\WEB-INF\classes\src\main\webapp\WEB-INF\web.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\target\hello-servlet\WEB-INF\classes\src\main\webapp\index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\target\hello-servlet\WEB-INF\classes\src\main\webapp\login.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\target\hello-servlet\WEB-INF\classes\target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\target\hello-servlet\WEB-INF\classes\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\target\hello-servlet\WEB-INF\web.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\target\hello-servlet\index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\target\hello-servlet\login.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\target\maven-archiver\pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\classes\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\lib\org-junit-4.7-201002261215.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\WEB-INF\web.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\hello-servlet\login.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\maven-archiver\pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\surefire-reports\ServletTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\surefire-reports\TEST-ServletTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\git_projects\Hello-Servlet\target\test-classes\ServletTest.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/helloservlet_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/helloservlet_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
@@ -735,12 +788,12 @@
       <workItem from="1442906614231" duration="181000" />
       <workItem from="1442909484887" duration="2430000" />
       <workItem from="1442912076594" duration="1928000" />
-      <workItem from="1442970208002" duration="3892000" />
+      <workItem from="1442970208002" duration="4005000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20560000" />
+    <option name="totallyTimeSpent" value="20673000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1382" height="728" extended-state="0" />
