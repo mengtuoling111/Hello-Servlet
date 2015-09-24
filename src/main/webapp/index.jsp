@@ -9,6 +9,6 @@
     </head>
     <body>
     <p>欢迎Servlet</p>
-    <a href="demo?action=login_input">(demo?action=login_input)</a>
+    <a href="demo1?destination=servlet">(demo1?destination=servlet)</a>
     </body>
 </html>

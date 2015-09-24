@@ -1,4 +1,5 @@
-import com.allinpay.servletdemo.demo1.*;
+
+import com.allinpay.servletdemo.demo1.ServletDemo;
 import org.junit.Test;
 
 public class ServletTest {

@@ -1,7 +1,9 @@
 package com.allinpay.servletdemo.demo1;
 
 import java.io.IOException;
+import java.io.PrintWriter;
 import javax.annotation.Resource;
+import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
@@ -19,7 +21,22 @@ public class ServletDemo extends HttpServlet {
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        doPost(request, response);
+//        doPost(request, response);
+        String destination = request.getParameter("destination");
+        if ("file".equals(destination)) {
+            RequestDispatcher rd = request.getRequestDispatcher("/WEB-INF/web.xml");
+            rd.forward(request, response);
+        }
+        else if ("servlet".equals(destination)) {
+            RequestDispatcher rd = request.getRequestDispatcher("/demo2");
+            rd.forward(request, response);
+        }
+        else {
+            response.setCharacterEncoding("UTF-8");
+            response.setContentType("text/html");
+            PrintWriter out = response.getWriter();
+            out.println("缺少参数，用法:"+request.getRequestURL()+"?destination=jsp或者file或者servlet");
+        }
     }
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
